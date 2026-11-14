@@ -28,7 +28,7 @@ jobs:
           user: PacketByte
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
+          base_indepth: false
           config_octicon: yes
           config_timezone: Etc/UTC-4
           plugin_calendar: false
